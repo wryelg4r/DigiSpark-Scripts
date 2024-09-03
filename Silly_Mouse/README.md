@@ -1,6 +1,6 @@
 # Silly Mouse script
-Why? Because why not? This is the ultimate troll that messes with your victim's mouse settings to unbearable levels.
-Inspired by Caleb Hutchinson's Silly Mouse Ducky Payload from hak5darren/USB-Rubber-Ducky, ported to Windows 10 and made better.
+¿Por qué? ¿Por qué no? Este es el troll definitivo que manipula la configuración del mouse de su víctima hasta niveles insoportables.
+Inspirado en Silly Mouse Ducky Payload de Caleb Hutchinson de hak5darren/USB-Rubber-Ducky, probado en Windows 10 y mejorado.
 
 # This script does the following:
 1. Opens Mouse Properties
